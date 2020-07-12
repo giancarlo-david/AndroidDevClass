@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShippingChargeApp</string>
+    <string-array name="products">
+        <item>Book</item>
+        <item>Video</item>
+        <item>Cloth</item>
+        <item>Bag</item>
+    </string-array>
+</resources>

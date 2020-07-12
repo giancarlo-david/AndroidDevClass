@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hw2</string>
+    <string-array name="txtCab" >
+        <item>SUV</item>
+        <item>Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+</resources>
